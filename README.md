@@ -6,12 +6,13 @@
 
 [정리한 내용 일부]
 
-1. [필요도구 설치](./docs/필요도구 설치.md)
-2. [Create React App](./docs/Create React App.md)
-3. [Functional vs Class (Component)](Functional vs Class (Component).md)
+1. [필요도구 설치](./docs/필요도구_설치.md)
+2. [Create React App](./docs/Create_React_App.md)
+3. [Functional vs Class (Component)](Functional_vs_Class(Component).md)
 4. [Props](Props.md)
-5. [State](State.md)
-6. [LifeCycle API](LifeCycle API.md)
+5. [Props(함수형)](함수형_Props.md)
+6. [State](State.md)
+7. [LifeCycle_API](LifeCycle_API.md)
 
 
 

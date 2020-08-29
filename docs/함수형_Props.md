@@ -1,4 +1,4 @@
-# React - 함수형 Props
+# Props(함수형)
 
 ```react
 import React, { Fragment } from 'react';

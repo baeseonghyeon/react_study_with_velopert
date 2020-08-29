@@ -1,4 +1,4 @@
-# React - Props
+# Props
 
 - Props값은 부모가 자식에게 주는 값
   - 읽기 전용

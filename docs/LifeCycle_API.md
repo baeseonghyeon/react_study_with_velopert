@@ -1,4 +1,4 @@
-# React - LifeCycle API
+# LifeCycle API
 
 https://react-anyone.vlpt.us/05.html
 

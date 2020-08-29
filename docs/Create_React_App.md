@@ -1,4 +1,4 @@
-# React - Create React App
+# Create React App
 
 - 리액트 앱 생성
 

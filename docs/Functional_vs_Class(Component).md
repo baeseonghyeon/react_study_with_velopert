@@ -1,4 +1,4 @@
-# React - Functional vs Class (Component)
+# Functional vs Class (Component)
 
 https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108
 
