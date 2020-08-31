@@ -2,7 +2,9 @@
 
 [벨로퍼트와 함께하는 모던 리액트](https://react.vlpt.us/ )를 실습한 코드 입니다.
 
+[진행 상황]
 
+20. useReducer 를 사용하여 상태 업데이트 로직 분리하기 실습하였습니다. 
 
 [정리한 내용 일부]
 
@@ -13,10 +15,3 @@
 5. [Props(함수형)](./docs/함수형_Props.md)
 6. [State](./docs/State.md)
 7. [LifeCycle_API](./docs/LifeCycle_API.md)
-
-
-
-
-
-
-
