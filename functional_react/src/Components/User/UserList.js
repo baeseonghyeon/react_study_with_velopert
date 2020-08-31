@@ -51,4 +51,4 @@ function UserList(props) {
 	);
 }
 
-export default UserList;
+export default React.memo(UserList);

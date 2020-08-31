@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CreateUser(props) {
+const CreateUser = (props) => {
 	return (
 		<div>
 			<input
@@ -19,3 +19,5 @@ export default function CreateUser(props) {
 		</div>
 	);
 }
+
+export default React.memo(CreateUser);
