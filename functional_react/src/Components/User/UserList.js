@@ -40,8 +40,8 @@ function UserList(props) {
 							name={user.username}
 							email={user.email}
 							active={user.active}
-							onRemove={props.onRemove}
-							onToggle={props.onToggle}
+							// onRemove={props.onRemove}
+							// onToggle={props.onToggle}
 						/>
 					)
 				})

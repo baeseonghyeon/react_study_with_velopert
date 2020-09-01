@@ -100,7 +100,7 @@ function App() {
 	return (
 		<div className="App">
 
-		{/* component, props, 조건부 렌더 */}
+{/* component, props, 조건부 렌더 */}
 			{/* 
 			<Wrapper>
 				<Hello name="배성현" color="blue"  isSpecial={true}/>
@@ -108,13 +108,13 @@ function App() {
 			</Wrapper><hr></hr> 
 			*/}
 
-		{/* useState 컴포넌트 값 관리, useReducer */}
+{/* useState 컴포넌트 값 관리, useReducer */}
 			{/* <Counter/><hr></hr> */}
 
-		{/* input 상태 관리 */}
+{/* input 상태 관리 */}
 			{/* <InputSample/><hr></hr> */}
 
-		{/* useRef, 배열 렌더, 배열 항목 추가-제거-수정, useEffect, useMemo, useCallback, React.memo */}
+{/* useRef, 배열 렌더, 배열 항목 추가-제거-수정, useEffect, useMemo, useCallback, React.memo */}
 			<CreateUser
 				username={inputs.username}
 				email={inputs.email}
