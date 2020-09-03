@@ -1,10 +1,10 @@
 # React 실습 (벨로퍼트와 함께하는 모던 리액트)
 
-[벨로퍼트와 함께하는 모던 리액트](https://react.vlpt.us/)를 실습한 코드 입니다.
+## [벨로퍼트와 함께하는 모던 리액트](https://react.vlpt.us/)를 실습한 코드 입니다.
 
-[진행 상황]
+## [진행 상황]
 
-1장. [리액트 입문](./react_app)
+### 1장. [리액트 입문](./react_app)
 
 1. 리액트는 어쩌다가 만들어졌을까?
 2. 작업환경 준비
@@ -34,17 +34,17 @@
 26. componentDidCatch 로 에러 잡아내기 / Sentry 연동
 27. 리액트 개발 할 때 사용하면 편리한 도구들 - Prettier, ESLint, Snippet
 
-2장. [리액트 컴포넌트 스타일링하기](./styling_app)
+### 2장. [리액트 컴포넌트 스타일링하기](./styling_app)
 
 1. Sass
 2. CSS Module
 3. styled-components
 
-3장. 멋진 투두리스트 만들기
+### 3장. 멋진 투두리스트 만들기
 
 ...
 
-[정리한 내용 일부]
+## [정리한 내용 일부]
 
 1. [필요도구 설치](./docs/필요도구_설치.md)
 2. [Create React App](./docs/Create_React_App.md)
