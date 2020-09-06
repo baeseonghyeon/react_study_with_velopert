@@ -1,11 +1,12 @@
 import React from 'react';
-// import User from './User';
-import User from './UserReducer';
+// import Users from './Users';
+// import Users from './UsersReducer';
+import Users from './UsersCustomHook';
 
 function App() {
   return (
     <div className="App">
-      <User/>
+      <Users/>
     </div>
   );
 }

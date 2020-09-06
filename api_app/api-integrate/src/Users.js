@@ -1,32 +1,7 @@
-import React, { useState, useReducer } from 'react'
+import React, { useState, useEffect } from 'react'
 import axios from 'axios'
 
-function reducer(state, action) {
-	switch (action.type) {
-		case 'LOADING':
-			return {
-				loading: true,
-				data: null,
-				error: null
-			};
-		case 'SUCESS':
-			return {
-				loading: false,
-				data: action.data,
-				error: null
-			};
-		case 'ERRPR':
-			return {
-				loading: false,
-				data: null,
-				error: action.error
-			};
-		default:
-			throw new Error(`Unhandled action type: ${action.type}`)
-	}
-}
-
-function User() {
+function Users() {
 	const [users, setUsers] = useState(null);
 	const [loading, setLoading] = useState(false);
 	const [error, setError] = useState(null);
@@ -49,7 +24,7 @@ function User() {
 		setLoading(false);
 	};
 
-	useState(() => {
+	useEffect(() => {
 		fetchUsers();
 	}, []);
 
@@ -70,4 +45,4 @@ function User() {
 	);
 }
 
-export default User;
+export default Users;
