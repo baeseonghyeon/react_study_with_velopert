@@ -1,7 +1,6 @@
-import React, { useEffect } from 'react';
+import React, { useEffec, useStatet } from 'react';
 import axios from 'axios';
 import useAsync from './useAsync';
-import { useState } from 'react';
 
 import User from './User';
 

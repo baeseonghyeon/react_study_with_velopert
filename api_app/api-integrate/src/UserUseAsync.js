@@ -11,7 +11,7 @@ async function getUser({ id }) {
 }
 
 function User({ id }) {
-    const { data: user, error, isLoadign } = useAsync({
+    const { data: user, error, loading } = useAsync({
         promiseFn: getUser,
         id,
         watch: id
