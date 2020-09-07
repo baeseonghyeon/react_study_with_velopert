@@ -4,7 +4,7 @@
 
 ## [진행 상황]
 
-### 1장. [리액트 입문](./react_app)
+### 1장. [리액트 입문](./react)
 
 1. 리액트는 어쩌다가 만들어졌을까?
 2. 작업환경 준비
@@ -34,19 +34,19 @@
 26. componentDidCatch 로 에러 잡아내기 / Sentry 연동
 27. 리액트 개발 할 때 사용하면 편리한 도구들 - Prettier, ESLint, Snippet
 
-### 2장. [리액트 컴포넌트 스타일링하기](./styling_app)
+### 2장. [리액트 컴포넌트 스타일링하기](./reactStyling)
 
 1. Sass
 2. CSS Module
 3. styled-components
 
-### 3장. [멋진 투두리스트 만들기](./todo_app)
+### 3장. [멋진 투두리스트 만들기](./reactTodoApp)
 
 1. 컴포넌트 만들기
 2. Context API를 활용한 상태 관리
 3. 기능 구현하기
 
-### 4장. [API 연동하기](./api_app)
+### 4장. [API 연동하기](./reactApi)
 
 1. API 연동의 기본
 2. useReducer 로 요청 상태 관리하기
@@ -54,7 +54,7 @@
 4. react-async 로 요청 상태 관리하기
 5. Context 와 함께 사용하기
 
-### 5장. [리액트 라우터](./router_app)
+### 5장. [리액트 라우터](./reactRouter)
 
 1. 프로젝트 준비 및 기본적인 사용법
 2. 파라미터와 쿼리
@@ -62,7 +62,7 @@
 4. 리액트 라우터 부가기능
 5. useReactRouter Hook 사용하기
 
-### 6장. [리덕스]()
+### 6장. [리덕스](./redux)
 
 ...
 
