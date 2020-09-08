@@ -1,6 +1,4 @@
-# 6장. 리덕스
-
-### https://react.vlpt.us/redux/
+# 6장. [리덕스](https://react.vlpt.us/redux/)
 
 1. 리덕스에서 사용되는 키워드 숙지하기
 2. 리덕스의 3가지 규칙

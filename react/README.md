@@ -1,6 +1,4 @@
-# 1장. 리액트 입문
-
-### https://react.vlpt.us/basic/
+# 1장. [리액트 입문](https://react.vlpt.us/basic/)
 
 1. 리액트는 어쩌다가 만들어졌을까?
 2. 작업환경 준비
