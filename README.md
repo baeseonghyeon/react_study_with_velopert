@@ -18,7 +18,7 @@
 
 ### 7장. [리덕스 미들웨어](./reduxMiddleware)
 
-...
+### 8장. [리액트 프로젝트에서 타입스크립트 사용하기](https://github.com/baeseonghyeon/typescript_study)
 
 ## [정리한 내용 일부]
 
