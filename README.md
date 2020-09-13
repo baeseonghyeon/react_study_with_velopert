@@ -20,7 +20,9 @@
 
 ### 8장. [리액트 프로젝트에서 타입스크립트 사용하기](https://github.com/baeseonghyeon/typescript_study/tree/master/velopertTypescriptReact)
 
-## [정리한 내용 일부]
+## [Docs]
+
+### 내용 중 일부를 정리한 내용 입니다.
 
 1. [필요도구 설치](./docs/필요도구_설치.md)
 2. [Create React App](./docs/Create_React_App.md)
